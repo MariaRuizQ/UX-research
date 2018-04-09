@@ -1,5 +1,7 @@
 # UX - Research  
 
+![fondo](https://user-images.githubusercontent.com/32652805/38507404-077977dc-3be2-11e8-9a4b-6d653d7525da.png)
+
 * **Track:** _Especialización UX Designer_
 * **Curso:** _Primer proyecto de UX_
 * **Unidad:** _Pimer proyecto UX_
@@ -31,11 +33,11 @@ En esta sección empezamos a entender los problemas del usuario. Es por eso que 
 
 ![Imagen 1][1]  ![Imagen 2][2]  ![Imagen 3][3]  ![Imagen 4][4]  ![Imagen 5][5]
 
- [1]: assets/img/form1.PNG
- [2]: assets/img/form2.PNG
- [3]: assets/img/form3.PNG
- [4]: assets/img/form4.PNG
- [5]: assets/img/form5.PNG
+ [1]: img/form1.PNG
+ [2]: img/form2.PNG
+ [3]: img/form3.PNG
+ [4]: img/form4.PNG
+ [5]: img/form5.PNG
 
  A continuación se muestra la página, donde se encontrarán fotos de las encuestas para al realización del proyecto, y los insights obtenidos de las encuestas:
 
@@ -43,36 +45,36 @@ En esta sección empezamos a entender los problemas del usuario. Es por eso que 
 
 Algunos insight que obtuvimos de las encuestas virtuales son:
 
-![rpta](assets/img/ans1.PNG)
-![rpta](assets/img/ans2.PNG)![rpta](assets/img/ans3.PNG)![rpta](assets/img/ans4.PNG)![rpta](assets/img/ans5.PNG)![rpta](assets/img/ans6.PNG)![rpta](assets/img/ans7.PNG)![rpta](assets/img/ans8.PNG)![rpta](assets/img/ans9.PNG)![rpta](assets/img/ans10.PNG)
+![rpta](img/ans1.PNG)
+![rpta](img/ans2.PNG)![rpta](img/ans3.PNG)![rpta](img/ans4.PNG)![rpta](img/ans5.PNG)![rpta](img/ans6.PNG)![rpta](img/ans7.PNG)![rpta](img/ans8.PNG)![rpta](img/ans9.PNG)![rpta](img/ans10.PNG)
 
 ### Síntesis
 
 Mediante la técnica del Affinity Mapping podemos procesar de mejor manera los insights hallados en el research y pudimos llegar a encontrar los problemas.
 
-![problem1](assets/img/affinity5.jpeg)
-![problem1](assets/img/problem1.PNG)![problem1](assets/img/problem2.PNG)![problem1](assets/img/problem3.PNG)![problem1](assets/img/problem4.PNG)![problem1](assets/img/problem5.PNG)
+![problem1](img/affinity5.jpeg)
+![problem1](img/problem1.PNG)![problem1](img/problem2.PNG)![problem1](img/problem3.PNG)![problem1](img/problem4.PNG)![problem1](img/problem5.PNG)
 
 #### User Personas
 
 Después de definir el problema creamos un arquetipo sobre nuestro ususario con todos los datos recogidos.
 
-![userperson1](assets/img/userperson1.PNG)
+![userperson1](img/userperson1.PNG)
 
 ### Served Persona
 
-![servedperson](assets/img/servedpersona.JPG)
+![servedperson](img/servedpersona.JPG)
 
 ### Negative Person
 
-![servedperson](assets/img/negative.png)
+![servedperson](img/negative.png)
 
 
 #### Problem statements & How might we? & what if...?
 -  Carlos NECESITA una manera segura PARA comprar pasajes online.
 -  Carlos QUISIERA que el proceso de compra PARA realizar compras online.
 
-![userperson1](assets/img/hmw.jpeg)![userperson1](assets/img/whatif.jpeg)
+![userperson1](img/hmw.jpeg)![userperson1](img/whatif.jpeg)
 
 ### Conceptualización
 
@@ -80,18 +82,18 @@ Es aquí donde empezamos a pensar en qué funcionalidad debería tener nuestro M
 
 Aquí algunas ideas.
 
-![funcionalidad1](assets/img/funcionalidad1.jpeg)![funcionalidad1](assets/img/funcionalidad2.jpeg)![funcionalidad1](assets/img/funcionalidad3.jpeg)
+![funcionalidad1](img/funcionalidad1.jpeg)![funcionalidad1](img/funcionalidad2.jpeg)![funcionalidad1](img/funcionalidad3.jpeg)
 
 **Benchmarking**
-![bench](assets/img/bench1.PNG)
+![bench](img/bench1.PNG)
 
 **Brainstorm**
 
-![brain](assets/img/brain1.jpeg)
+![brain](img/brain1.jpeg)
 
 Es así que se crea el story board para este user person
 
-![problem1](assets/img/storyboard1.PNG)
+![problem1](img/storyboard1.PNG)
 
 **Guión Literario**
 
@@ -312,15 +314,15 @@ Puede mandar invitaciones a sus amigos y ganar descuentos.
 Nuestro usuario principal se llama Carlos, vive en lima y tiene 24 años. Él es comunicador social y trabaja en El Comercio. Viaja dos veces por año. Generalmente una vez en sus vacaciones y otra en feriado largo con amigos.  En su tiempo libre le gusta practicar deportes y salir a divertirse con sus amigos los fines de semana.
 Carlos ha realizado algunas compras online, pero sus experiencias no han sido las mejores. Por eso cuando viaja prefiere comprar en ventanillas o agencias, pero eso le demanda mucho tiempo. Por ello, esta considerando otras opciones que le resulten más rápidas y sencillas.
 
-## Logotipo 
+## Logotipo
 
-![logo](assets/img/Wanderbus.png)
+![logo](img/Wanderbus.png)
 
 Elegimos el nombre de Wanderbus, ya que *wander* en inglés, significa recorrer, pasear, etc y le añadimos Bus por el rubro de venta de pasaje de bus.
 
 ## Prototipo
 
-![pag1](assets/img/pag1.jpeg)![pag1](assets/img/pag2.jpeg)![pag1](assets/img/pag3.jpeg)![pag1](assets/img/pag4.jpeg)![pag1](assets/img/pag5.jpeg)![pag1](assets/img/pag6.jpeg)![pag1](assets/img/pag7.jpeg)![pag1](assets/img/pag8.jpeg)![pag1](assets/img/pag9.jpeg)![pag1](assets/img/pag10.jpeg)![pag1](assets/img/pag11.jpeg)![pag1](assets/img/pag12.jpeg)![pag1](assets/img/pag13.jpeg)![pag1](assets/img/pag14.jpeg)
+![pag1](img/pag1.jpeg)![pag1](img/pag2.jpeg)![pag1](img/pag3.jpeg)![pag1](img/pag4.jpeg)![pag1](img/pag5.jpeg)![pag1](img/pag6.jpeg)![pag1](img/pag7.jpeg)![pag1](img/pag8.jpeg)![pag1](img/pag9.jpeg)![pag1](img/pag10.jpeg)![pag1](img/pag11.jpeg)![pag1](img/pag12.jpeg)![pag1](img/pag13.jpeg)![pag1](img/pag14.jpeg)
 
 Para una mejor visualizacion de nuestro prototipo, le sugerimos dar click al siguiente link donde se encontrará un carrusel, con las vistas, en orden, del prototype
 
@@ -336,7 +338,7 @@ En resumen, Diego nos comentó que si bien el proceso era entendible, le parecí
 
 **Usuario:** *Ruth*
 
-Ruth nos mencionó que no le parecía seguro que solo le enviaran un mensaje con un codigo, porque al final si pondria un numero de teléfono no hay forma de saber si esta vinculado con la tarjeta es por eso que  sugirió un codigo CAPTCHA y que le parecía muy amigable y divertido nuestro *helper*. 
+Ruth nos mencionó que no le parecía seguro que solo le enviaran un mensaje con un codigo, porque al final si pondria un numero de teléfono no hay forma de saber si esta vinculado con la tarjeta es por eso que  sugirió un codigo CAPTCHA y que le parecía muy amigable y divertido nuestro *helper*.
 
 ## Segundo Testing
 
@@ -355,7 +357,7 @@ Por otro lado, como aspectos positivos de nuestro website, fueron que le gusto q
 
 ## Storytelling
 
-Carlos es un chico súper alegre, a pesar de todo siempre ha sabido ser positivo. Se esforzó mucho por conseguir terminar su carrera, es un comunicador de 24 años, exitoso. 
+Carlos es un chico súper alegre, a pesar de todo siempre ha sabido ser positivo. Se esforzó mucho por conseguir terminar su carrera, es un comunicador de 24 años, exitoso.
 Cuando comenzó a trabajar le iba súper, y así fue ascendiendo, y su tiempo disminuyendo. Por esto, comenzó a dejar pasiones de lado, como conocer nuevos lugares y personas. Lo que lo llevó a estar cansado de su rutina, casi casi se convierte en un pesimista. Sin embargo, hoy en la mañana, al despertarse dijo: "NO, no puedo perderme a mí mismo" y con todas las ganas, está dispuesto a retomar y equilibrar su vida entre sus pasiones y su trabajo.
 
 
@@ -363,7 +365,7 @@ Para su suerte, hay un feriado largo a puertas, y piensa viajar dentro del Perú
 
 Entonces, recuerda que un compañero le recomendó una página: WANDERBUS. Entra y la página, se ve prometedora, le han dado a elegir ciertos criterios para darle como resultado "el sitio ideal para viajar". Y "Oh, vaya!" según la página, su lugar ideal sería Ica e incluso puede comprar el boleto de bus ahí mismo, escoger su asiento y pagar con tarjeta de crédito en menos de 5 minutos
 
-Relajado Carlos, vuelve a su rutina, más feliz, más contento pero sabiendo que le espera un gran viaje.. 
+Relajado Carlos, vuelve a su rutina, más feliz, más contento pero sabiendo que le espera un gran viaje..
 
 
 
@@ -371,10 +373,8 @@ Relajado Carlos, vuelve a su rutina, más feliz, más contento pero sabiendo que
 
 ### Sin Web
 
-![customer-journer-map](assets/img/sinweb.JPG)
+![customer-journer-map](img/sinweb.JPG)
 
 ### Con Web
 
-![customer-journer-map](assets/img/conweb.JPG)
-
-
+![customer-journer-map](img/conweb.JPG)
